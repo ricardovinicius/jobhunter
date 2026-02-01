@@ -1,15 +1,20 @@
 // Maybe use zod to validate the data
 // Also, maybe the types should be in a separate file per feature
 
-export interface LinkedInScrapedJobData {
-    success: boolean;
-    data: {
-        title: string;
-        company: string;
-        metadata: LinkedInJobMetadata;
-        description: string;
-    }
-}
+export type LinkedInScrapedJobData =
+    | {
+          success: true;
+          data: {
+              title: string;
+              company: string;
+              metadata: LinkedInJobMetadata;
+              description: string;
+          };
+      }
+    | {
+          success: false;
+          error: unknown;
+      };
 
 export interface LinkedInJobMetadata {
     location: string;
