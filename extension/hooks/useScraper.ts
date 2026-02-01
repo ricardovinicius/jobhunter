@@ -22,7 +22,8 @@ export const useScraper = () => {
 
             setData(response);
         } catch (error) {
-            setError(error as string);
+            const errorMessage = error instanceof Error ? error.message : String(error);
+            setError(errorMessage);
         } finally {
             setLoading(false);
         }
