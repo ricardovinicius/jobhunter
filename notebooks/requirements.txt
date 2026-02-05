@@ -1,0 +1,6 @@
+pydantic[email]
+instructor[google-genai,openai]
+openai
+python-dotenv
+pandas
+sentence-transformers

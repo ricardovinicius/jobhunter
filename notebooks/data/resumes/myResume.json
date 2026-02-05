@@ -1,0 +1,117 @@
+{
+    "basics": {
+        "name": "Ricardo Fernandes",
+        "label": "Software Engineer",
+        "email": "ricardoviniciusaf@gmail.com",
+        "location": {
+            "city": "Maceió",
+            "state": "AL",
+            "countryCode": "BR"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "ricardovini",
+                "url": "https://linkedin.com/in/ricardovini"
+            },
+            {
+                "network": "GitHub",
+                "username": "ricardovinicius",
+                "url": "https://github.com/ricardovinicius"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Centro de Inovação EDGE",
+            "position": "Software Engineer",
+            "startDate": "2023-07",
+            "endDate": "Current",
+            "highlights": [
+                "Developed a client environment simulation application (FastAPI and Vue.js) used for end-to-end testing of an RPA application",
+                "Worked on the development of a REST API using FastAPI for monitoring and managing custom RPA bots, ensuring real-time visibility and greater operational control over automations",
+                "Participated in integrating RPA workflows with RAG pipelines and LLMs, contributing to the automation of multilingual document processing and analysis",
+                "Refactored a FastAPI backend to increase code testability and cohesion by applying Service, Repository, and Dependency Injection patterns",
+                "Contributed to increasing test coverage of a Python codebase to 90% by creating and maintaining unit tests with unittest, helping reduce failures in the final product",
+                "Responsible for implementing an observability solution combining structured logs (logfmt and JSON) for event analysis and Sentry for error tracking and aggregation",
+                "Implemented a messaging pipeline with RabbitMQ for asynchronous processing of ML/LLM jobs between microservices, ensuring delivery and decoupling",
+                "Participated in deploying applications to the client's internal environment, ensuring security and quality standards through containerization (Docker), CI/CD pipeline creation (GitLab), and Kubernetes orchestration"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Federal University of Alagoas",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "2022-08",
+            "endDate": "2027-07"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Odontolog",
+            "description": "Backend development for a university dental school clinic management system.",
+            "keywords": [
+                "Java",
+                "Spring Boot",
+                "PostgreSQL",
+                "Docker"
+            ],
+            "startDate": "2025",
+            "highlights": [
+                "Collaborated on the backend development of a Java/Spring Boot application, responsible for providing a REST API and implementing business rules",
+                "Defined the service architecture and backend data modeling, ensuring decoupling and component reusability",
+                "Integrated the backend with S3-compatible storage services for secure patient document storage via pre-signed URLs",
+                "Implemented unit and integration tests in JUnit to ensure application stability"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages",
+            "keywords": [
+                "Python",
+                "Java",
+                "C",
+                "C++",
+                "SQL",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Frameworks",
+            "keywords": [
+                "FastAPI",
+                "Spring Boot",
+                "Vue.js",
+                "React",
+                "LangChain",
+                "Robot Framework"
+            ]
+        },
+        {
+            "name": "Tools",
+            "keywords": [
+                "Git",
+                "Docker",
+                "GitLab CI",
+                "Kubernetes",
+                "RabbitMQ"
+            ]
+        },
+        {
+            "name": "Libraries",
+            "keywords": [
+                "JUnit",
+                "Pytest",
+                "Pydantic",
+                "unittest",
+                "pika",
+                "FastStream"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,280 @@
+{
+    "databases": {
+        "PostgreSQL": [
+            "postgres",
+            "pgsql",
+            "postgre",
+            "postgresql db"
+        ],
+        "MySQL": [
+            "my-sql",
+            "mysql db"
+        ],
+        "MongoDB": [
+            "mongo",
+            "mongo db",
+            "mongodb atlas"
+        ],
+        "Microsoft SQL Server": [
+            "mssql",
+            "sql server",
+            "ms sql"
+        ],
+        "SQLite": [
+            "sqlite3",
+            "sqlite db"
+        ],
+        "Redis": [
+            "redis db",
+            "redis cache"
+        ],
+        "Elasticsearch": [
+            "elastic",
+            "elk stack",
+            "es"
+        ],
+        "Cassandra": [
+            "apache cassandra"
+        ],
+        "DynamoDB": [
+            "aws dynamodb",
+            "dynamo"
+        ]
+    },
+    "languages": {
+        "JavaScript": [
+            "js",
+            "ecmascript",
+            "node",
+            "node.js"
+        ],
+        "TypeScript": [
+            "ts",
+            "typescript lang"
+        ],
+        "Python": [
+            "py",
+            "python3",
+            "python2",
+            "cpython"
+        ],
+        "Java": [
+            "jdk",
+            "jvm",
+            "java se",
+            "java ee"
+        ],
+        "C#": [
+            "csharp",
+            "c-sharp",
+            ".net"
+        ],
+        "C++": [
+            "cpp",
+            "c plus plus"
+        ],
+        "Go": [
+            "golang",
+            "go lang"
+        ],
+        "Ruby": [
+            "rb",
+            "mri"
+        ],
+        "Rust": [
+            "rs",
+            "rust-lang"
+        ],
+        "PHP": [
+            "php7",
+            "php8"
+        ],
+        "Swift": [
+            "swift lang"
+        ],
+        "Kotlin": [
+            "kt"
+        ]
+    },
+    "frameworks": {
+        "React": [
+            "reactjs",
+            "react.js",
+            "react native"
+        ],
+        "Vue.js": [
+            "vue",
+            "vuejs",
+            "vue.js 2",
+            "vue.js 3"
+        ],
+        "Angular": [
+            "angularjs",
+            "ng",
+            "angular 2+"
+        ],
+        "Django": [
+            "django python",
+            "django framework"
+        ],
+        "Spring Boot": [
+            "spring",
+            "spring framework",
+            "spring boot"
+        ],
+        "Ruby on Rails": [
+            "rails",
+            "ror"
+        ],
+        "Laravel": [
+            "laravel php"
+        ],
+        "Express.js": [
+            "express",
+            "expressjs"
+        ],
+        "ASP.NET Core": [
+            "asp.net",
+            ".net core",
+            "dotnet core"
+        ],
+        "Flutter": [
+            "flutter sdk"
+        ]
+    },
+    "libraries": {
+        "jQuery": [
+            "jquery",
+            "$"
+        ],
+        "NumPy": [
+            "numpy"
+        ],
+        "Pandas": [
+            "pandas"
+        ],
+        "TensorFlow": [
+            "tf",
+            "tensorflow"
+        ],
+        "PyTorch": [
+            "torch",
+            "pytorch"
+        ],
+        "Redux": [
+            "reduxjs"
+        ],
+        "Tailwind CSS": [
+            "tailwind",
+            "tailwindcss"
+        ],
+        "Bootstrap": [
+            "twitter bootstrap",
+            "bootstrap css"
+        ]
+    },
+    "tools": {
+        "Git": [
+            "git scm",
+            "git version control"
+        ],
+        "Docker": [
+            "docker container",
+            "docker engine"
+        ],
+        "Kubernetes": [
+            "k8s",
+            "kube",
+            "kubectl"
+        ],
+        "Jenkins": [
+            "jenkins ci"
+        ],
+        "Terraform": [
+            "tf",
+            "hashicorp terraform"
+        ],
+        "Ansible": [
+            "ansible automation"
+        ],
+        "Visual Studio Code": [
+            "vscode",
+            "vs code"
+        ],
+        "Postman": [
+            "postman api"
+        ],
+        "Webpack": [
+            "webpack bundler"
+        ],
+        "JIRA": [
+            "atlassian jira"
+        ],
+        "GitLab CI/CD": [
+            "gitlab ci",
+            "gitlab cd"
+        ]
+    },
+    "operational_systems": {
+        "Windows": [
+            "win",
+            "windows 10",
+            "windows 11",
+            "windows server"
+        ],
+        "macOS": [
+            "osx",
+            "mac os",
+            "darwin",
+            "apple os"
+        ],
+        "Linux": [
+            "gnu/linux",
+            "ubuntu",
+            "debian",
+            "centos",
+            "red hat",
+            "rhel",
+            "fedora",
+            "alpine"
+        ],
+        "Android": [
+            "android os"
+        ],
+        "iOS": [
+            "ios mobile",
+            "ipados"
+        ],
+        "Unix": [
+            "unix system"
+        ]
+    },
+    "cloud": {
+        "Amazon Web Services": [
+            "aws",
+            "amazon cloud"
+        ],
+        "Google Cloud Platform": [
+            "gcp",
+            "google cloud"
+        ],
+        "Microsoft Azure": [
+            "azure",
+            "azure cloud"
+        ],
+        "Heroku": [
+            "salesforce heroku"
+        ],
+        "DigitalOcean": [
+            "do",
+            "digital ocean"
+        ],
+        "IBM Cloud": [
+            "ibm bluemix"
+        ],
+        "Oracle Cloud": [
+            "oci",
+            "oracle cloud infrastructure"
+        ]
+    }
+}

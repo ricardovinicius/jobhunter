@@ -1,0 +1,81 @@
+Como o time de Engenharia constrói a Loft:
+
+A missão do time de Engenharia é projetar, construir e evoluir produtos digitais resilientes e escaláveis, que suportam o crescimento da Loft e potencializam o dia a dia das nossas imobiliárias parceiras em todo o Brasil. Buscamos pessoas Engenheiras de Software que tenham profundo domínio técnico, atuem de forma colaborativa e se comuniquem com clareza, contribuindo para soluções robustas e sustentáveis. Valorizamos quem gosta de resolver problemas complexos, aprender continuamente e gerar impacto real em um ambiente dinâmico, em constante evolução e com desafios de alta escala
+
+Os desafios que você vai encontrar: 
+
+ Pleno (Entre 1 e 3 anos):
+
+    Resolver problemas com autonomia, solicitando ajuda sempre que necessário;
+    Sentimento de dona de todo o ciclo de desenvolvimento, mantendo a qualidade das aplicações;
+    Participar ativamente em decisões de produto (do discovery até a produção) visando trazer mais valor para clientes;
+    Atuar em um ambiente colaborativo, apoiando e sendo apoiada;
+    Assegurar a qualidade da solução através de testes automatizados;
+    Documentar o trabalho realizado;
+    Ser capaz de identificar melhorias e oportunidades nos produtos;
+    Ser capaz de lidar com incertezas e abraçar mudanças.
+
+ Sênior (Entre 3 e 8 anos):
+
+    Além de todos os itens anteriores:
+    Trabalhar de forma independente e liderar tarefas de ponta a ponta;
+    Exercer influência técnica sobre o time de engenharia melhorando e guiando a arquitetura;
+    Contribuir para reduzir a complexidade do processo de desenvolvimento;
+    Atuar ativamente com pessoas de Produto, traduzindo as necessidades de negócio em soluções criativas, elegantes, incrementais e eficientes;
+    Projetar e desenvolver componentes e aplicações visando simplicidade, eficiência, manutenibilidade e reaproveitamento de código;
+    Garantir documentação de aplicações e decisões arquiteturais;
+    Assegurar observabilidade das aplicações em produção e atuar na solução de incidentes;
+    Ativamente analisar e melhorar escalabilidade, estabilidade e segurança das aplicações;
+    Assumir o ownership de projetos de ponta a ponta;
+    Fortes habilidades de colaboração para remover quaisquer bloqueadores que possa enfrentar;
+    Se manter atualizada com as tendências de desenvolvimento web, frameworks e melhores práticas e recomendar melhorias para aprimorar os processos de desenvolvimento.
+
+ Staff (Mínimo 8 anos de experiência)
+
+    Além de todos os itens anteriores:
+    Influenciar na desambiguação de evoluções arquiteturais e decisões técnicas;
+    Permanecer ativa com a codificação, contribuindo diretamente enquanto orienta e ajuda a desenvolver membros menos experientes;
+    Promover uma cultura de time inclusiva e orientada por feedback que incentive o aprendizado e a melhoria contínuos;
+    Ter capacidade de equilibrar e priorizar demandas concorrentes;
+    Participar ativamente do processo seletivo.
+
+O que você precisa para virar a chave?
+
+    System design e code design patterns;
+    Desenvolvimento de aplicativos web responsivos e de alta qualidade;
+    Implementação de API escaláveis;
+    Arquitetura de Microsserviços;
+    Observabilidade de sistemas;
+    Bancos de dados relacionais e não relacionais;
+    Técnicas de teste automatizado de software;
+    Componentes reutilizáveis e modulares no back-end que promovem a reutilização, a manutenibilidade e a escalabilidade do código;
+    Metodologias ágeis e ter mindset de start-up;
+    Tomada de decisões usando métricas e dados;
+    Excelentes habilidades de comunicação sendo inclusivo no processo de decisão;
+    Arquiteturas baseadas nos serviços de nuvem;
+    Otimizações de alta carga (simultaneidade) e migrações/refatoração;
+    Ferramentas e práticas DevSecOps, integrando segurança em fluxos de trabalho de desenvolvimento e promovendo uma cultura DevOps.
+
+Informações adicionais
+
+💳Caju - Mais liberdade para usar seus benefícios (Refeição, Alimentação, Mobilidade, Saúde, Home Office, Cultura e Educação);
+
+🏥Assistência Médica - Sulamerica
+
+🪥Assistência Odontológica - Sulamerica
+
+🦺Seguro de Vida - Prudential
+
+🏋️WellHub - Acesso a academias no Brasil inteiro
+
+🧘Wellz- Plataforma de Saúde Mental
+
+🏝️Férias Flexíveis - Tire suas férias a qualquer momento
+
+😴Day Off
+
+👪Licença Parental - para pais e mães
+
+🐕Guapeco - Plano de Saúde Pet com desconto
+
+🖥️Trabalho - Remoto

@@ -1,0 +1,42 @@
+Engenheiro de Software Junior ou Pleno (Java) | Investment Products
+
+A equipe IT Digital está inserida dentro do pilar de Produtos e Plataforma e é responsável por desenvolver o Portal de Clientes - ferramenta voltada para os clientes do Banco BTG Pactual - e Portal Admin - ferramenta com foco nos parceiros do banco e seus assessores. Em adição, o time é responsável por algumas das frentes de Investimentos e por outros canais de comunicação com os clientes, como o Portal Institucional, Área Administrativa e Soluções Mobile.
+
+No Seu Dia a Dia
+
+    Referência técnica e atuação junto à equipe de projetos que utiliza em seu trabalho algumas tecnologias como Java, Spring Boot, WebServices REST/SOAP, Mensageria, Kubernetes e AWS.
+    Trabalhar com arquitetura orientada a microsserviços, modelo DevOps e experiência com troubleshooting e análise de logs.
+    Desenvolver e expandir do pipeline de produtos do Portal de Clientes do BTG e soluções para a plataforma administrativa
+    Atuar nos projetos que consistem em aumentar e flexibilizar produtos disponíveis na plataforma Digital.
+
+Esperamos De Você
+
+    Formação superior completa em Engenharia da Computação, Ciência da Computação, Análise de Sistemas, Processamento de Dados, Sistemas de Informação; ou áreas relacionadas;
+    Conhecimento em Java, Springboot e Web Services
+    Experiência com Mensageria: RabbitMQ, AWS SNS e SQS
+    Conhecimento com docker
+    Arquitetura Cloud (AWS)
+    Arquitetura de Microserviços e Design Patterns
+    Banco de dados relacional e não relacional (Oracle, PostegreSQL e DynamoDB)
+    CI/CD (Git/Jenkins/Github Actions)
+    Conhecimento em Node (diferencial)
+    Boa capacidade de comunicação, resiliência, boa capacidade analítica e vontade de crescer profissionalmente, superar novos desafios e inovar
+    Disponibilidade para atuação presencial/hibrida na Faria Lima-SP
+
+Benefícios
+
+    Participação nos Lucros e Resultados (PLR);
+    Auxílio Alimentação e Refeição;
+    Plano Médico;
+    Plano Odontológico;
+    Auxílio Creche/Babá;
+    Vale Transporte;
+    WellHub;
+    TotalPass;
+    Programa de Apoio Pessoal (EAP);
+    Planos por adesão como Previdência Privada e Seguro de Vida;
+    Desconto em Farmácia;
+    Programa de Nutrição;
+    Programa de Gestantes;
+    Licença Maternidade e Paternidade Estendida – empresa Cidadã.
+
